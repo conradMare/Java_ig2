@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/L11_Execptions.iml" filepath="$PROJECT_DIR$/L11_Execptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11_ExceptionsAndAssertions.iml" filepath="$PROJECT_DIR$/L11_ExceptionsAndAssertions.iml" />
     </modules>
   </component>
 </project>
