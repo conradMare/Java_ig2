@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e5f440c-4691-4da3-b247-c9ee0b954265" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ParallelProcesses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParallelProcesses/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8e5f440c-4691-4da3-b247-c9ee0b954265" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,15 +28,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/phill/OneDrive/Desktop/Java_Advanced/Java_ig2/Lesson16_TheFork-JoinFramework/L16_TheFork-JoinFramework&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/phill/OneDrive/Desktop/Java_Masterclass/JMC_17/JavaMasterClass-jdk17/S16_Using Final, Immutable classes, Constructors, Initializers, Sealed classes",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.UsingRecursiveTask" />
