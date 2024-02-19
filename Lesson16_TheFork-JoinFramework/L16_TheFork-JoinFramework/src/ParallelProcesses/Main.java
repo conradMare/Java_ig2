@@ -1,7 +1,7 @@
 // Types of Parallelism:
 // (a) -> Task parallelism:
 //        Divides a program into smaller task that get executed concurrently.
-//        Each task can run on a seperate thread or processor core.
+//        Each task can run on a separate thread or processor core.
 // (b) -> Data parallelism: (Example below)
 //        Processes different parts of the same data concurrently.
 
