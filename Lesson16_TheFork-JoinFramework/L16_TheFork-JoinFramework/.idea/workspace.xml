@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e5f440c-4691-4da3-b247-c9ee0b954265" name="Changes" comment="" />
+    <list default="true" id="8e5f440c-4691-4da3-b247-c9ee0b954265" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ParallelProcesses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,49 +16,36 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2cRM9NYzBHUIgPt7JwATb1fSqKy" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/phill/OneDrive/Desktop/Java_Advanced/Java_ig2/Lesson16_TheFork-JoinFramework/L16_TheFork-JoinFramework",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/phill/OneDrive/Desktop/Java_Advanced/Java_ig2/Lesson16_TheFork-JoinFramework/L16_TheFork-JoinFramework&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.UsingRecursiveTask" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForkJoinExample">
-    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ProcessorCountExample.FindMax" />
-      <module name="L16_TheFork-JoinFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.ProcessorCountExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ParallelProcesses.Main">
     <configuration name="ForkJoinExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.JavaForkJoin.ForkJoinExample" />
       <module name="L16_TheFork-JoinFramework" />
@@ -108,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParallelProcesses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParallelProcesses.Main" />
+      <module name="L16_TheFork-JoinFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParallelProcesses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProcessorCountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.ProcessorCountExample.ProcessorCountMain" />
       <module name="L16_TheFork-JoinFramework" />
@@ -123,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParallelProcesses.Main" />
         <item itemvalue="Application.ForkJoinExample" />
         <item itemvalue="Application.ForkJoinExample (1)" />
         <item itemvalue="Application.ForkJoinExample (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FindMax" />
       </list>
     </recent_temporary>
   </component>
