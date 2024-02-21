@@ -1,4 +1,4 @@
-package com.examples.TryCatchExample;
+package com.examples.TryCatchExample.com.example;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
@@ -17,3 +17,4 @@ public class TryCatchMain {
         }
     }
 }
+
