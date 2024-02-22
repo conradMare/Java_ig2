@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolDbSqlDialect">
+    <option name="dialect" value="PostgreSQL" />
+    <option name="dialects">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/cc69fa7e-3c1c-4f36-ada5-1044fa849561/console.sql" value="PostgreSQL" />
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/f6321949-77c2-4938-b782-b94e23175c2f/console.sql" value="PostgreSQL" />
+      </map>
+    </option>
+  </component>
+</project>
